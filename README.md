@@ -19,7 +19,9 @@ I am a passionate software developer with passion to share knowledge and tech pr
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-pannu&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-![Uploading wordcloud3.png…]()
+<a href="https://harpreetpannu.net/" target="_blank">
+  <img align="center" src="https://github.com/h-pannu/h-pannu/blob/main/Brain.png" />
+</a>
 
 
 </p>
